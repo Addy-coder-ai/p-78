@@ -1,6 +1,6 @@
 var names = [
     "Me,Advait",
-    "My Mother,Mythil Balakrishnan",
+    "My Mother,Mythili Balakrishnan",
     "My Father,Anandh Bharathan",
     "My Grandma From Mother's side,Subhalakshmi",
     "My Grandma From Father's side,Uma Bharathan",
